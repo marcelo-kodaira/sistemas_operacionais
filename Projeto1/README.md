@@ -51,9 +51,9 @@ Com as flags ambas as contas podem enviar e receber , onde caso uma deles zere a
 
 São utilizadas 100 threads e no loop a rotina é chamada de 0 a 100 vezes.
 
-![image](https://github.com/FelipeCle/SO_LAB/assets/94229656/6733e953-aa67-4359-a224-d4923f4ad140)
+![242301576-6733e953-aa67-4359-a224-d4923f4ad140](https://github.com/marcelo-kodaira/sistemas_operacionais/assets/112910311/1ff54326-f402-48e0-b352-ba3a4d27f6a4)
 
-![image](https://github.com/FelipeCle/SO_LAB/assets/94229656/1796ff64-8a81-443c-91ba-376468b4d81a)
+![242301681-1796ff64-8a81-443c-91ba-376468b4d81a](https://github.com/marcelo-kodaira/sistemas_operacionais/assets/112910311/a7e03207-e977-4ccb-86e8-3b8529f4b97a)
 
 Também é utilizado uma mutex no código , garantindo a integridade e o funcionamento adequado das threads.
 
