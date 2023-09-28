@@ -43,7 +43,8 @@ receber e a conta que recebia pode enviar;
 
 Com as flags ambas as contas podem enviar e receber , onde caso uma deles zere a outra passa a transferir e vice-versa.
 
-![image](https://github.com/FelipeCle/SO_LAB/assets/94229656/294649f1-9dd7-4e2c-a5b0-827f689f965b)
+![242300535-294649f1-9dd7-4e2c-a5b0-827f689f965b](https://github.com/marcelo-kodaira/sistemas_operacionais/assets/112910311/8d6aeaf4-a2ee-4ec3-8d68-8adb124ed899)
+
 
 
 **5. Poderão ser realizadas até 100 transações simultâneas de transferência.**
