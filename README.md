@@ -1,4 +1,4 @@
-<h1 align="center"> Sistemas Operacionai </h1>
+<h1 align="center"> Sistemas Operacionais </h1>
 
 **Nome dos Integrantes do Grupo:**
 ```
