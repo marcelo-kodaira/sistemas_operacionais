@@ -27,7 +27,8 @@ Utilizando o GCC, devemos utilizar o comando no terminal : gcc main.c -o main.ou
 **2. A conta from pode enviar mais de uma transferência simultânea**
 
 Resolvido com a utilização de threads no código , ao chamar a rotina que possui transferências para ambas as contas.
-![image](https://github.com/FelipeCle/SO_LAB/assets/94229656/599732bb-b7c3-4d27-92bc-2a7b8ebbb742)
+![242298960-599732bb-b7c3-4d27-92bc-2a7b8ebbb742](https://github.com/marcelo-kodaira/sistemas_operacionais/assets/112910311/e103ccfe-914e-475f-8829-628335b96dcf)
+32bb-b7c3-4d27-92bc-2a7b8ebbb742)
 
 **3. A conta from não pode enviar dinheiro se não tiver mais saldo**
 
