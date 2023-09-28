@@ -34,7 +34,8 @@ Resolvido com a utilização de threads no código , ao chamar a rotina que poss
 
 A conta só transfere enquanto possui dinheiro
 
-![image](https://github.com/FelipeCle/SO_LAB/assets/94229656/658c313a-c800-4847-96a8-e0b3220da925)
+![242300186-658c313a-c800-4847-96a8-e0b3220da925](https://github.com/marcelo-kodaira/sistemas_operacionais/assets/112910311/8dbe6506-6c8f-4e61-a1c4-fef65c55420b)
+800-4847-96a8-e0b3220da925)
 
 
 **4. A conta to pode trocar de ordem com a conta from, ou seja, a conta que enviava pode**
