@@ -28,14 +28,14 @@ Utilizando o GCC, devemos utilizar o comando no terminal : gcc main.c -o main.ou
 
 Resolvido com a utilização de threads no código , ao chamar a rotina que possui transferências para ambas as contas.
 ![242298960-599732bb-b7c3-4d27-92bc-2a7b8ebbb742](https://github.com/marcelo-kodaira/sistemas_operacionais/assets/112910311/e103ccfe-914e-475f-8829-628335b96dcf)
-32bb-b7c3-4d27-92bc-2a7b8ebbb742)
+
 
 **3. A conta from não pode enviar dinheiro se não tiver mais saldo**
 
 A conta só transfere enquanto possui dinheiro
 
 ![242300186-658c313a-c800-4847-96a8-e0b3220da925](https://github.com/marcelo-kodaira/sistemas_operacionais/assets/112910311/8dbe6506-6c8f-4e61-a1c4-fef65c55420b)
-800-4847-96a8-e0b3220da925)
+
 
 
 **4. A conta to pode trocar de ordem com a conta from, ou seja, a conta que enviava pode**
