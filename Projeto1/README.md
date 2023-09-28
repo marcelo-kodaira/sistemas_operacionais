@@ -1,6 +1,4 @@
-<h1 align="center"> Projeto 02 </h1>
-
-**Turma 04N11**
+<h1 align="center"> Projeto 01 </h1>
 
 
 > Contas bancarias.
@@ -10,10 +8,9 @@
 **Nome dos Integrantes do Grupo:**
 
 ```
-Victor Junqueira - 42123712
-Felipe Cle - 42116082
-Matheus - 42130727
-
+Gabriel Leal Leone 32249659
+Daniel Eiji Tanaami 32273223
+Marcelo Kodaira de Almeida 32274297
 ```
 
 **Como compilar o programa:**
