@@ -1,7 +1,7 @@
 <h1 align="center"> Projeto 02 </h1>
 
 
-<h1 align="center"> ## Escada Rolante Dupla </h1>
+<h2 align="center"> Escada Rolante Dupla </h2>
 
 
 **Nome dos Integrantes do Grupo:**
